@@ -53,11 +53,11 @@ const Bom = () => {
     setIsDnac(!isDnac);
   };
   return (
-    <div className="bom-navbar">
+    <div className="bom-navbar" >
       <div className="bom-heading">
         <h1>Use Case</h1>
       </div>
-      <div className="bom-form">
+      <div className="bom-form" >
         <div style={{ display: "flex", padding: "20px 0px" }}>
           <div
             style={{

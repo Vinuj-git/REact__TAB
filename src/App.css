@@ -4,5 +4,7 @@
 }
 .App {
   height: 100vh;
-  background-color: rgb(186, 188, 188);
+  /* background-color: rgb(186, 188, 188); */
+  background-image: url("../public/cisco_image.png");
+  background-size:cover
 }

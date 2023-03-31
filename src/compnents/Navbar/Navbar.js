@@ -111,7 +111,7 @@ const NavigationBar = () => {
                 />
               </Tabs>
             </>
-            <TabPanel value={value} index={0} style={{ marginTop: "-40px" }}>
+            <TabPanel value={value} index={0} style={{  marginTop: "-40px" }}>
               <Bom />
             </TabPanel>
             <TabPanel value={value} index={1} style={{ marginTop: "-40px" }}>
